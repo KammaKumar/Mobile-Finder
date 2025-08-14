@@ -1,3 +1,3 @@
 
 
-This is the description from your local README.md.
+A web platform to connect the people who lost their mobile and who found a mobile ina college range.
